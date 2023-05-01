@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "cross-env NODE_ENV=development nodemon ./src/main.js",
-    "start": "cross-env NODE_ENV=prodaction nodemon ./src/main.js"
+    "start": "cross-env NODE_ENV=production nodemon ./src/main.js"
   },
   "keywords": [],
   "author": "",
